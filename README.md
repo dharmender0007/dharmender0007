@@ -36,7 +36,6 @@
 - 🌱 Currently learning **React.js (advanced concepts)**
 - 💡 Love building real-world full-stack projects
 - 📍 Based in Rajasthan, India
-- 📫 Reach me at: **[jangirdharmender333@gmail.com]**
 
 ---
 
@@ -51,13 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Dharmender's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmender0007&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmender0007&layout=compact&hide_border=true)
-
----
 
 ## 📫 Let's Connect
 
